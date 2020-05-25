@@ -1,4 +1,4 @@
-# Devil_DFT_Tutorial_IJQC_2020
+# Devil DFT Tutorial – IJQC 2020
 Supplementary Electronic Material for:
 ## The Devil in the Details: A Tutorial Review on Some Undervalued Aspects of Density Functional Theory Calculations
 
